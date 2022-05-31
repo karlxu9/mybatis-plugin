@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.karl.api.pager;
+package com.karl.pager;
 
 /**
  * 模块描述: 【分页接口】
